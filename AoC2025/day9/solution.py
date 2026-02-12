@@ -38,5 +38,6 @@ for i in range(len(input)):
                                 
                     
             result = rect
+            # TODO
 
 print(result)
